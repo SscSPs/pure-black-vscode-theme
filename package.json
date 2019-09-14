@@ -1,21 +1,28 @@
 {
-    "name": "pure-black",
-    "displayName": "Pure Black",
-    "description": "A Theme for VSCode with actually black base",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Pure Black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/pure-black-color-theme.json"
-            }
-        ]
-    }
+	"name": "pure-black",
+	"publisher": "SscSPs",
+	"repository": "https://github.com/SscSPs/pure-black-vscode-theme",
+	"displayName": "Pure Black",
+	"description": "A Theme for VSCode with actually black base",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pure Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pure-black-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9255ceda-23da-4960-b019-ab2a70463efe",
+		"publisherDisplayName": "Sahil Soni",
+		"publisherId": "99caa607-3ddb-4cd7-8fa3-fefc5dee38a3"
+	}
 }
