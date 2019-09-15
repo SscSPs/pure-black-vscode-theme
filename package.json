@@ -4,7 +4,7 @@
 	"repository": "https://github.com/SscSPs/pure-black-vscode-theme",
 	"displayName": "Pure Black",
 	"description": "A Theme for VSCode with actually black base",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.38.0"
 	},
